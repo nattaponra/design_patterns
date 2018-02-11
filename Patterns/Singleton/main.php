@@ -33,5 +33,5 @@ writeln('END TESTING SINGLETON PATTERN');
 
 function writeln($line_in)
 {
-    echo $line_in . '<br/>';
+    echo $line_in . PHP_EOL;
 }

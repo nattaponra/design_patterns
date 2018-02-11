@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+    dp_phpfpm:
+        container_name: dp_phpfpm
+        image: nattaponra/php-fpm:7.1
+        volumes:
+            - ./Patterns:/app
+
+
+
+
