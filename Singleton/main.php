@@ -1,4 +1,7 @@
 <?php
+include 'BookSingleton.php';
+include 'BookBorrower.php';
+
 writeln('BEGIN TESTING SINGLETON PATTERN');
 writeln('');
 
