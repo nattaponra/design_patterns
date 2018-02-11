@@ -1,0 +1,2 @@
+## Factory
+One of the most commonly used design patterns is the factory pattern. In this pattern, a class simply creates the object you want to use. Consider the following example of the factory pattern:
