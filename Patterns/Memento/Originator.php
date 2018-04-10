@@ -1,7 +1,6 @@
 <?php
 include_once ("Memento.php");
  
-
 class Originator {
     private $state;
     
